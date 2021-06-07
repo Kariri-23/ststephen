@@ -1,0 +1,155 @@
+.carousel .bannerimage{
+    height:60vh;
+    width:100%;
+}
+.carousel h5{
+    color:rgb(0, 255, 255);
+    font-size: 24px;
+    text-transform:uppercase ;
+}
+.carousel p{
+    background-color:rgba(0, 247, 255, 0.377);
+    padding: 10px;
+}
+
+.border{ background-color:yellow;
+    height: 5px!important;
+    width:40px;
+    margin: 10px 0px;
+
+
+}
+
+/* marketingsection */
+.marketingsection p.read{
+    max-width:50%; 
+    text-align: center;
+
+}
+.marketingsection span{ 
+    color: rgb(26, 97, 32);
+    text-decoration: underline!important;
+    text-transform:lowercase;
+    font-weight:500;
+}
+.marketingsection i{
+    width: 100px;
+    height: 100px;
+    color: rgb(0, 255, 255);
+    border: 2px solid rgb(0, 238, 255);
+    padding: 22px;
+    border-radius: 40px;
+    transition: 0.2s linear;
+    font-size: 40px;
+    text-align: center!important;
+
+}
+.marketingsection i.hover{ 
+    border-radius: 50px;
+    }
+.exellencesection img{ box-shadow:20px 20px orange}
+.img{ box-shadow: rgb(44, 90, 6);
+    margin: px px;        
+}
+
+.members-section{ padding: 90px;
+    background-color:rgba(0, 238, 255, 0.671);
+    color: white;
+    }
+    .members-section h2{ font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    }
+
+    .members-section .border{background-color:white;
+        height: 7px!important;
+        width:50px;
+        margin: 10px 2px;}
+        .members-section p{ text-align: center;
+        font-weight: 500;
+        font-size: 24px;
+        }
+        .our-exellence span{color: rgb(26, 97, 32);
+        text-decoration: underline!important;
+        text-transform:lowercase;
+        font-weight:500;
+    
+      }
+      .our-exellence .border{ color: yellow;}
+      .our-exellence img { box-shadow: 10px 10px rgba(135, 222, 218, 0.342) ;}
+      .our-exellence img:hover{ transform: scale(1.5);
+        transition: 0.7s linear;
+        border-radius:50%;
+      
+    }
+    .newssection h2 span{ 
+        color: rgb(6, 242, 250)!important;
+
+    }
+    .newssection img{ height: 200px;}
+    .newssection .card p{
+        text-align: right!important;
+        font-size: 14px;
+    }
+    .newssection .row{
+        max-width: 100%;
+    }
+    
+    .newssection img:hover{
+        opacity: .5;
+        cursor: pointer;
+        transform: scale(1.1);
+        transition: .5s linear;
+    }
+    .newssection .card{
+        transition:.5s linear;
+    }
+.newssection .card:hover{
+    box-shadow: 0 0 10px 0px blue;
+    cursor: s-resize;
+    transition: 0.7s linear;
+    margin-bottom: 10px;
+}
+
+footer{
+    color: white;
+  
+}
+footer h5{
+    text-transform: uppercase;
+    font-weight: 800;
+
+}
+footer p span{ font-weight: 300;
+
+}
+footer ul.social li{
+    text-decoration: none;
+    display: inline-block!important;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    width: 50px;
+    height: 50px;
+    font-size: 28px;
+    border: 1px solid blue;
+    text-align: center;
+    border-radius: 40px;
+}
+footer ul li a i{
+    position: relative;
+    margin: 10px 10px;
+    color:orange;
+}
+footer ul li:hover{ border-radius:10% ;
+    margin-right: 10px;
+         }
+footer ul.quick-links li{
+    list-style-type: 
+    none;
+    color: white!important;
+    text-decoration: none;
+    border-style: ;
+    padding: ;
+    
+}
