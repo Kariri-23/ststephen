@@ -153,3 +153,14 @@ footer ul.quick-links li{
     padding: ;
     
 }
+.bannersection{background-image: url(../images/black.jpg);
+    color: white;
+               
+}
+.accomplishment img{ 
+    box-shadow: 10px 10px grey;
+}
+.rugby img{
+    box-shadow: -10px 10px grey;
+    
+}
