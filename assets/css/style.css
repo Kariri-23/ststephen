@@ -198,3 +198,17 @@ background-repeat: no-repeat;
 }
 .footer i{ color: lightblue;}
 .our-values .border{ color: lightblue;}
+.staff{
+    background-image: url(../images/6.jpg);
+    background-size: cover;
+    color: white;
+    min-height: 200px;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+.staffsection img{
+    border-radius: 50%;
+    transition: .7s linear;
+    box-shadow: 0 0 10px 0px lightblue;}
+.staffsection img:hover{ 
+    box-shadow: 0 0 10px 0px lightblue;}
